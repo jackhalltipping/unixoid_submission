@@ -1,0 +1,500 @@
+  100  ls
+  101  cd private
+  102  rmdir /directory
+  103  rmdir /my
+  104  sudo rmdir /my
+  105  unixoid-challenge
+  106  cd temp
+  107  cd Deskto
+  108  cd Desktop
+  109  cd temp
+  110  unixoid-challenge
+  111  mkdir my
+  112  rmdir my
+  113  mkdir my/private/files
+  114  mkdir -p my/private/files
+  115  mkdir -p my/public/files
+  116  cd my
+  117  cd private
+  118  cd files
+  119  touch t-vars.env
+  120  cat > touch t-vars.env
+  121  cat > t-vars.env
+  122  cd Desktop
+  123  cd
+  124  cd Desktop
+  125  cd temp
+  126  unixoid-challenge
+  127  cd Desktop
+  128  cd temp
+  129  env | grep "t"
+  130  unixoid-challenge
+  131  printenv
+  132  grep T* env
+  133  grep -e "^T env
+  134  t-vars.env
+  135  findenv
+  136  printenv
+  137  find env
+  138  printenv t-vars.env | less
+  139  unioxoid-challenge
+  140  unixoid-challenge
+  141  unixoid-challenge
+  142  unixoid-challenge
+  143  export TESTING_MAKERS=working
+  144  unixoid-challenge
+  145  echo $TESTING_MAKERS
+  146  TESTING_MAKERS
+  147  echo TESTING_MAKERS
+  148  unixoid-challenge
+  149  unixoid-challenge
+  150  cd Desktop
+  151  mkdir temp
+  152  cd temp
+  153  gem install unixoid-challenge
+  154  unixoid-challenge
+  155  mkdir my/private/files
+  156  mkdir -p my/private/files
+  157  ls
+  158  mkdir -p my/public/files
+  159  unixoid-challenge
+  160  cd my
+  161  cd private
+  162  cd files
+  163  touch t-vars.env
+  164  cat > t-vars.env
+  165  unixoid-challenge
+  166  unixoid-challenge
+  167  unixoid-challenge
+  168  cd Desktop
+  169  cd 
+  170  cd Desktop
+  171  cd temp
+  172  mkdir -p my/private/files
+  173  mkdir -p my/public/files
+  174  cd my
+  175  cd private
+  176  cd files
+  177  touch t-vars.env
+  178  cat > t-vars.env
+  179  printenv
+  180  cd Desktop
+  181  cd
+  182  cd
+  183  cd
+  184  cd Desktop
+  185  touch .profile
+  186  cat > .profile
+  187  cd Desktop
+  188  printenv
+  189  ls
+  190  cd temp
+  191  unixoid-challenge
+  192  export TESTING_MAKERS=working
+  193  TESTING_MAKERS
+  194  $TESTING_MAKERS
+  195  cd Desktop
+  196  cd temp
+  197  unixoid-challenge
+  198  unixoid-challenge
+  199  unixoid-challenge
+  200  export TESTING_MAKERS=working
+  201  echo $TESTING_MAKERS
+  202  echo "export TESTING_MAKERS=working" >> ~/.bash_profile
+  203  echo $TESTING_MAKERS
+  204  cd
+  205  cd Desktop
+  206  cd temp
+  207  unixoid-challenge
+  208  cd my
+  209  cd public
+  210  cd files
+  211  touch t-vars.count
+  212  cat t-vars.count
+  213  cat > t-vars.count
+  214  cd 
+  215  cd Desktop
+  216  cd temp
+  217  unixoid-challenge
+  218  cd private
+  219  cd my
+  220  cd private
+  221  cd files
+  222  ls -l
+  223  chmod g-r t-vars.env
+  224  chmod o-r t-vars.env
+  225  ls -l
+  226  cd 
+  227  cd Desktop
+  228  cd temp
+  229  unixoid-challenge
+  230  cd my
+  231  cd private
+  232  ls -l
+  233  chmod o-r files
+  234  chmod o-x files
+  235  chmod g-r files
+  236  chmod g-x files
+  237  ls -
+  238  ls -l
+  239  cd my
+  240  cd
+  241  cd Desktop
+  242  cd temp
+  243  unixoid-challenge
+  244  cd my
+  245  cd public
+  246  cd files
+  247  ls -l
+  248  chmod a+w t-vars.count
+  249  ls -l
+  250  which
+  251  pwd
+  252  cd /Users/Jack/Desktop/temp
+  253  unixoid-challenge
+  254  cd my
+  255  cd public
+  256  cd files
+  257  touch text-files-count.txt
+  258  ls
+  259  cd
+  260  find *.txt | wc -l
+  261  cd Desktop
+  262  cd temp
+  263  unixoid-challenge
+  264  unixoid-challenge
+  265  touch my/public/files/text-files-count.txt
+  266  cd my/public/files
+  267  ls
+  268  cd 
+  269  cd Desktop
+  270  cd temp
+  271  cd
+  272  ls *.txt
+  273  cd ~
+  274  find . -name "*.txt" -print
+  275  cd Desktop
+  276  cd temp
+  277  cd public
+  278  cd my
+  279  cd public
+  280  cd files
+  281  ls
+  282  cat > text-files-count.txt
+  283  cd
+  284  cd Desktop
+  285  cd temp
+  286  unixoid-challenge
+  287  touch my/private/files/first-three-env.txt
+  288  printenv
+  289  unixoid-challenge
+  290  touch my/private/files/commands.txt
+  291  history
+  292  cd my
+  293  cd private
+  294  cd files
+  295  touch commands.txt
+  296  cat > commands.txt
+  297  cd
+  298  cd Desktop
+  299  cd temp
+  300  unixoid-challenge
+  301  cd Desktop
+  302  cd temp
+  303  unixoid-challenge
+  304  git --version
+  305  heroku login
+  306  git config --global user.name "Jack Hall-Tipping"
+  307  git config --global user.email "jack.halltipping@gmail.com"
+  308  git config --global core.autocrlf input
+  309  git config --global core.safecrlf true
+  310  mkdir gitDir
+  311  cd gitDir
+  312  echo "Git is Awesome" > gitText
+  313  git init
+  314  git add gitText
+  315  git commit -m "First commit"
+  316  git init
+  317  rm -rf .git
+  318  rm gitDir
+  319  cd
+  320  rm gitDir
+  321  defaults write com.apple.finder AppleShowAllFiles YES
+  322  In Terminal, paste the following: defaults write com.apple.finder AppleShowAllFiles
+  323  In Terminal, paste the following: defaults write com.apple.finder AppleShowAllFiles NO
+  324  defaults write com.apple.finder AppleShowAllFiles NO
+  325  emacs
+  326  git config --global core.autocrlf input
+  327  git config --global core.safecrlf true
+  328  mkdir gitDir
+  329  cd gitDir
+  330  echo "git is Awesome" > gitText
+  331  git init
+  332  git add gitText
+  333  git commit -m "First commit"
+  334  git status
+  335  git add gitText
+  336  git status
+  337  git commit -m "About to start preparing for heist"
+  338  git commit -m "ready for the heist"
+  339  rm -rf .git
+  340  git config --global user.name "Jack Hall-Tipping"
+  341  git config --global user.email "jack.halltipping@gmail.com"
+  342  git config --global core.autocrlf input
+  343  git config --global core.safecrlf true
+  344  cd gitDir
+  345  mkdir gitDir
+  346  cd gitDir
+  347  echo "Git is Awesome" > gitText
+  348  git init
+  349  git add gitText
+  350  git commit -m "first commit"
+  351  git status
+  352  echo "This text was changed" > gitText
+  353  git status
+  354  git add gitText
+  355  git status
+  356  git commit -m "Updated gitText"
+  357  git status
+  358  git log
+  359  rm gitText
+  360  touch moreGitText
+  361  git status
+  362  git add moreGitText
+  363  git status
+  364  git add newFile
+  365  git commit -m "deleted gitText"
+  366  git status
+  367  git checkout a1833e4ef4a1b
+  368  git checkout master
+  369  git remote add origin git@github.com:jackhalltipping/playing-with-git.git
+  370  git remote 0v
+  371  git remote -v
+  372  cat .git/config
+  373  git push -u origin master
+  374  ls -al ~/.ssh
+  375  ssh-keygen -t rsa -b 4096 -C "jack.halltipping@gmail.com"
+  376  eval "$(ssh-agent -s)"
+  377  ssh-add ~/.ssh/id_rsa
+  378  pbcopy < ~/.ssh/id_rsa.pub
+  379  ssh -T git@github.com
+  380  cat .git/config
+  381  ls -al ~/.ssh
+  382  ssh-keygen -t rsa -b 4096 -C "jack.halltipping@gmail.com"
+  383  eval "$(ssh-agent -s)"
+  384  ssh-add ~/.ssh/id_rsa
+  385  pbcopy < ~/.ssh/id_rsa.pub
+  386  ssh -T git@github.com
+  387  git remote add origin git@github.com:makersacademy/playing-with-git.git
+  388  git remote -v
+  389  cat .git/config
+  390  git push -u origin master
+  391  git commit -m "playing with git"
+  392  mkdir gitDir
+  393  cd gitDir
+  394  git push -u origin master
+  395  ls
+  396  git commit -m "Updated gitText"
+  397  mkdir gitDir
+  398  rm gitDir
+  399  rm -rf .git
+  400  mkdir gitDir
+  401  rm -rf gitDir
+  402  mkdir gitDir
+  403  cd gitDir
+  404  echo "git is awesome" > gitText
+  405  git init
+  406  git add gitText
+  407  git commit -m "First commit"
+  408  git status
+  409  echo "This text was changed" > gitText
+  410  git status
+  411  git add gitText
+  412  git status
+  413  git commit -m "Updated gitText"
+  414  git status
+  415  git log
+  416  rm gitText
+  417  touch moreGitText
+  418  git status
+  419  git add moreGitText
+  420  git status
+  421  git add newFile
+  422  git status
+  423  git commit -m "deleted gitText"
+  424  git status
+  425  git status
+  426  git rm gitText
+  427  git status
+  428  rm gitText
+  429  git status
+  430  git commit
+  431  cd gitDir
+  432  git status
+  433  commit -m "deleted gitText"
+  434  git commit -m "deleted gitText"
+  435  git status
+  436  git log
+  437  git checkout 078be8a6ac15f00fa0899b3b7b3c10f18ea144ff
+  438  ls
+  439  cat gitText
+  440  git checkout master
+  441  ls
+  442  git remote -v
+  443  git@github.com:jackhalltipping/playing-with-git.git
+  444  git remote add origin git@github.com:jackhalltipping/playing-with-git.git
+  445  git remote -v
+  446  cat .git/config
+  447  git push -u origin master
+  448  git push
+  449  git log
+  450  git pull
+  451  git log
+  452  git pull
+  453  mkdir ~/Projects
+  454  cd ~/Projects
+  455  mkdir ruby-practice
+  456  cd ruby-practice
+  457  git init
+  458  echo "Introductory Ruby excercises" > README
+  459  git add README
+  460  git commit -m "Initial commit"
+  461  cd ~/Projects
+  462  git clone https://github.com/JoshCheek/ruby-kickstart.git
+  463  ls
+  464  mkdir command-line
+  465  ls
+  466  cd command-line
+  467  git init
+  468  touch README
+  469  cat > README
+  470  git add README
+  471  git commit -m "First commit with README"
+  472  git remote add origin git@github.com:jackhalltipping/command-line.git
+  473  git remove -v
+  474  git remote -v
+  475  git push
+  476  git push origin master
+  477  touch mv
+  478  git commit -m "Adding mv file"
+  479  git add mv
+  480  git commit -m "Adding mv file"
+  481  git push
+  482  git push origin master
+  483  git pull
+  484  git pull -u origin master
+  485  cat mv
+  486  ls
+  487  cat 'mv'
+  488  cat README
+  489  git pull
+  490  git pull origin master
+  491  ls
+  492  cat mv.txt
+  493  git pull origin master
+  494  ls
+  495  git pull origin master
+  496  ls
+  497  rm -rf grep
+  498  ls
+  499  git push origin master
+  500  cd Desktop
+  501  mkdir temp
+  502  cd temp
+  503  gem install unixoid-challenge
+  504  unixoid-challenge
+  505  mkdir my/private/files
+  506  mkdir -p my/private/files
+  507  mkdir -p my/public/files
+  508  unixoid-challenge
+  509  cd my/private/files
+  510  touch t-vars.env
+  511  cat > t-vars.env
+  512  showenv
+  513  printenv
+  514  cat > t-vars.env
+  515  cat t-vars.env
+  516  unixoid-challenge
+  517  cd Desktop
+  518  cd 
+  519  cd Desktop
+  520  cd temp
+  521  unixoid-challenge
+  522  cd my/public/files
+  523  touch t-vars.count
+  524  cat > t-vars.count
+  525  unixoid-challenge
+  526  cd Desktop
+  527  cd
+  528  cd Desktop/temp
+  529  unixoid-challenge
+  530  cd my/private
+  531  ls -
+  532  ls -l
+  533  chmod o-r files
+  534  ls -l
+  535  chmod g-r files
+  536  ls -l
+  537  cd
+  538  cd Desktop/my/private
+  539  cd Desktop
+  540  cd temp
+  541  cd my
+  542  cd private
+  543  ls -l
+  544  cd files
+  545  ls -l
+  546  chmod o-r t-vars.env
+  547  chmod g-r t-vars.env
+  548  cd Desktop
+  549  cd 
+  550  cd Desktop
+  551  cd temp
+  552  unixoid-challenge
+  553  cd my/private
+  554  ls -l
+  555  chmod o-x files
+  556  chmod g-x files
+  557  ls -l
+  558  cd
+  559  cd Desktop
+  560  cd temp
+  561  unixoid-challenge
+  562  cd my/public/files
+  563  ls -l
+  564  chmod a+w t-vars.count
+  565  touch text-files-count.txt
+  566  cd
+  567  grep -l *.txt | wc -l
+  568  grep *.txt
+  569  find *.txt
+  570  cd Desktop
+  571  cd temp
+  572  unixoid-challenge
+  573  echo *.txt | wc
+  574  cd my/public/files
+  575  cat > text-files-count.txt
+  576  cd
+  577  cd Desktop
+  578  cd temp
+  579  unixoid-challenge
+  580  ls -1 | sort
+  581  cd Desktop
+  582  cd
+  583  cd Desktop
+  584  printenv
+  585  touch sort.txt
+  586  cat > sort.txt
+  587  cat sort.txt | sort
+  588  cat sort.txt | sort > sort1.txt
+  589  cat sort1.txt
+  590  cd temp/my/private/files
+  591  ls
+  592  touch first-three-env.txt
+  593  cat > first-three-env.txt
+  594  cd
+  595  cd Desktop/temp
+  596  unixoid-challenge
+  597  cd my/private/files
+  598  touch commands.txt
+  599  history
